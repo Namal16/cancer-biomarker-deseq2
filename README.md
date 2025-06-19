@@ -18,10 +18,15 @@ III.	Perform differential gene expression analysis
 IV.	Filter significant genes (adj. p < 0.05 and |log2FC| > 1)
 
 ### Visualize with:
+
 	Volcano plot
+
 	PCA plot
+
 	MA plot
+
 	Heatmap
+
 
 ### 3.	Results
 Results are saved in the `results/` folder:
