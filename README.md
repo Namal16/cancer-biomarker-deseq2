@@ -1,7 +1,7 @@
-Cancer Biomarker Discovery using DESeq2 (Simulated)
+###Cancer Biomarker Discovery using DESeq2 (Simulated)
 
 This project simulates a CANCER BIOMARKER DIFFERENTIAL EXPRESSION ANALYSIS using the `airway` dataset, which mimics control vs treated groups. It uses `DESeq2`, a powerful R package for RNA-Seq data analysis.
-1.	Tools & Technologies
+###1.	Tools & Technologies
 -	R, Bioconductor
 -	DESeq2
 -	Enhanced Volcano
